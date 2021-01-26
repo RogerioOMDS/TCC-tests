@@ -1,5 +1,4 @@
 # TCC-tests
-Testes utilizados no TCC.
 
 curv_nivel.jl : Generate the plot with the trajectory of optimization process on the level curves.
 
