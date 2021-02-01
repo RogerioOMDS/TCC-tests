@@ -10,3 +10,6 @@ decre_lin.jl : Generate the plot with iterations x resitual with the Linear mode
 
 Link to dataset "new_bidding.csv":
 https://drive.google.com/file/d/1modo3ryqq8JgTbvM2zNQH89hBX56_Pbe/view?usp=sharing
+
+Link to dataset "HR_data.csv":
+https://drive.google.com/file/d/1RH3d0ThdvXrORAMMmO8vy_K-zBpeJhIc/view?usp=sharing
